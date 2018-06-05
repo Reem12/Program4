@@ -1,7 +1,7 @@
 /*
  * This program uses two approches to search in graph which are 
-DFS and BFS. This program reads from file the adjacency matrix and the 
-output for the algorthims is wrriten out in file.
+DFS and BFS. This program reads from file called "input.txt" the adjacency matrix and the 
+output for the algorthims is wrriten out in file caled "output.txt".
  */
 package prog4;
 

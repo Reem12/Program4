@@ -1,0 +1,2 @@
+DFS: [ A B E F C D ]
+BFS: [ A B C D E F ]
